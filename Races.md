@@ -226,6 +226,11 @@ Your race affects many things about your character, such as ability scores, raci
 
 **Stout Resilience** You have advantage on saving throws against poison, and you have resistance against poison damage.
 
+### Kobold
+**Racial Ability Scores** Dexerity, intelligence
+**Darkvision.** 60ft
+**Grovel, Cower, and Beg.** As an action on your turn, you can cower pathetically to distract nearby foes. Until the end of your next turn, your allies gain advantage on attack rolls against enemies within 10 feet of you that can see you. Once you use this trait, you can't use it again until you finish a short or long rest. - **Pack Tactics.** You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated. - **Sunlight Sensitivity.** You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+
 # Orcs
 **Racial Ability Scores** Constitution and Strength
 
@@ -273,3 +278,7 @@ Your race affects many things about your character, such as ability scores, raci
 **Infernal Legacy** You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the hellish rebuke spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. The damage type is the same as your *Hellish Resistance*. When you reach 5th level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 **Bonus Languages** Infernal
+
+### Tortle 
+**Racial Ability Scores** Strength, Wisdom
+**Claws.** Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. - **Hold Breath.** You can hold your breath for up to 1 hour at a time. Tortles aren't natural swimmers, but they can remain underwater for some time before needing to come up for air. - **Natural Armor.** Due to your shell and the shape of your body, you are ill-suited to wearing armor. Your shell provides ample protection, however; it gives you a base AC of 17 (your Dexterity modifier doesn't affect this number). You gain no benefit from wearing armor, but if you are using a shield, you can apply the shield's bonus as normal. - **Shell Defense.** You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are prone, your speed is 0 and can't increase, you have disadvantage on Dexterity saving throws, you can't take reactions, and the only action you can take is a bonus action to emerge from your shell. - **Survival Instinct.** You gain proficiency in the Survival skill. Tortles have finely honed survival instincts.
