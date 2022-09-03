@@ -188,6 +188,17 @@ Your race affects many things about your character, such as ability scores, raci
 
 *Music Box*. When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song's end or when it is closed.
 
+### Deep Variety
+**Racial Ability Scores** Strength
+
+**Bonus Languages** Undercommon
+
+**Gnome Cunning** Advantage on stealth checks to hide in rocky terrain.
+
+**Stonecunning** When you make a history check related to stonework, double your proficiency bonus.
+
+**Superior Darkvision** 120ft
+
 # Goblins
 **Racial Ability Scores** Dexterity, Intelligence
 
