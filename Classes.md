@@ -6,10 +6,24 @@ Your character can utilize their skills in any number of unique ways. The hit di
 ## Artificer
 An intelligent inventor who imbues magic into everything they create. Makers of magic-infused objects, artificers are defined by their inventive nature. They see magic as a complex system waiting to be decoded and controlled. Instead of ephemeral spells, they seek to craft durable, useful, marvelous magical items.
 
+_**Hit Die**_. d8
+_**Primary Stat**_. Intelligence 
+_**Save Buffs**_. Constitution, Intelligence 
+_**Proficiencies**_. Light and Medium Armor, Sheild, Simple weapons
+_**Skills**_. Choose two from Arcana, History, Investigation, Medicine, Nature, Perception, Sleight of Hand
+
+_**Equipment**_. Choose: 
+* any two simple weapons of your choice 
+* a light crossbow and 20 bolts 
+* (a) your choice of studded leather armor or (b) scale mail 
+* thieves' tools and a dungeoneer's pack
+
 ## Barbarian
 A fierce warrior of primitive background who can enter a battle rage. For some, their rage springs from a communion with fierce animal spirits. Others draw from a roiling reservoir of anger at a world full of pain. For every barbarian, rage is a power that fuels not just a battle frenzy but also uncanny reflexes, resilience, and feats of strength.
 
-_**Hit Die**_. d12 _**Primary Stat**_. Strength _**Save Buffs**_. Strength, Constitution
+_**Hit Die**_. d12 
+_**Primary Stat**_. Strength 
+_**Save Buffs**_. Strength, Constitution
 _**Proficiencies.**_ Light and medium armor, shields, simple and martial weapons
 _**Skills**_. Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
 
