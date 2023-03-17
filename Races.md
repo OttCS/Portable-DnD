@@ -1,4 +1,4 @@
-Your race affects many things about your character, such as ability scores, racial abilities, damage resistances, etc.
+Your race, while most for aesthetic, has some affects on your character including; racial traits, damage resistances Your race affects aspects about your character such as ability scores, racial abilities, damage resistance, and other abilities.
 
 **Size** Unless otherwise noted, your size is medium
 
