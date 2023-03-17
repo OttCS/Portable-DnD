@@ -9,11 +9,16 @@ Your race affects many things about your character, such as ability scores, raci
 **Bonus Languages** All playable races can speak, read, and write Common, as well as other noted languages
 
 # Humans
+
 **Racial Ability Scores** Three of your choice
 
 **Bonus Languages** One extra language of your choice.
 
 # Dragonborn
+Dragonborn resemble bipedal dragons, standing upright as most humanoids do. While they lack wings, they have a set of scales in the color of their draconic ancestor. With an average height of six feet and strong builds, dragonborn have been known throughout history as imposing figures, using this influence for both good and evil. 
+
+_Dragonborn come from large clans, where the success of the group is often more important than having individual goals. While there are some who strike out on their own, most dragonborn have a fierce loyalty to those who show they can be trusted._
+
 **Racial Ability Scores** Strength
 
 **Bonus Languages** Draconic
@@ -50,6 +55,10 @@ Your race affects many things about your character, such as ability scores, raci
 |Poison|Lighning|Acid|Fire|Cold|
 
 # Dwarves
+Dwarves have the appearance of humans, but shorter (averaging four feet) with a broad frame. 
+
+_Bold and hardy, dwarves are known as skilled warriors, miners, and worker of stone and metal. Though they stand well under five feet tall, dwarves are so compact and broad that they weigh as much as the average human, Their courage and endurance are also easily a match for any of the larger folk. Their long lifespans and value of clan traditions lead them to be observed as anything from determined to downright stubbornly set in what they believe._
+
 **Racial Ability Scores** Constitution
 
 **Speed** 25ft, not reduced by heavy armor
@@ -77,6 +86,10 @@ Your race affects many things about your character, such as ability scores, raci
 **Dwarven Armor Training** You have proficiency with light and medium armor.
 
 # Elves
+Elves have the appearance of humans, tending to a more slender build with pointed ears and little to no facial/body hair. Skin tones vary outside of humans, including shades similar to metals (gold, silver, bronze, etc). 
+
+_Elven cultures vary, but one thing that is common to most is a sort of timeless perspective. They are slow to make friends and enemies, and even slower to forget them._
+
 **Racial Ability Scores** Dexterity
 
 **Darkvision** 60ft
@@ -117,6 +130,10 @@ Your race affects many things about your character, such as ability scores, raci
 |Thunder|Cold|Lightning|Fire|
 
 # Genasi
+Genasi are humanoids with ancestry intertwined with the elements: air, earth, fire, and water. A genasi typically shares some sort of physical and resemblance to the element they are connected to, such as fiery red skin or skin resembling cracked earth. 
+
+_Genasi don't have universal cultures or traditions, as most rarely come into contact with more than a handful of other genasi in their lifetime. They'll typically reflect the environment that they grew up in, as humans do._
+
 **Racial Ability Scores** Constitution
 
 **Bonus Languages** Primordial
@@ -156,6 +173,10 @@ Your race affects many things about your character, such as ability scores, raci
 **Call to the Wave** You know the shape water cantrip. When you reach 3rd level, you can cast the create or destroy water spell as a 2nd-level spell once with this trait, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for these spells.
 
 # Gnomes
+Averaging a little over three feet tall, with even pointier ears than elves and very slight builds. Their energy and enthusiasm can be seem in anything they do, whether evil or benign. 
+
+_Their reliance on creativity and ingenuity to solve problems have gotten many gnomes out of tricky situations in the past, and gnome cultures tend to foster this._
+
 **Racial Ability Scores** Intelligence
 
 **Size.** Small
@@ -200,6 +221,9 @@ Your race affects many things about your character, such as ability scores, raci
 **Superior Darkvision** 120ft
 
 # Goblins
+Typically from subterranean or heavily forested areas, regional variants all have skin hues to blend in (greens for forest, tans for deserts, etc). Typically around three feet tall with pointed ears and teeth.
+
+_Goblins will typically have lots of associates, but are very slow to develop a full trust on people. As a result, most have a contingency plan if being backstabbed is a possibility._
 **Racial Ability Scores** Dexterity, Intelligence
 
 **Size.** Small
@@ -238,6 +262,10 @@ Your race affects many things about your character, such as ability scores, raci
 **Stout Resilience** You have advantage on saving throws against poison, and you have resistance against poison damage.
 
 # Kobold
+Some of the smallest (averaging four feet tall) draconic creatures in the multiverse, kobolds display their draconic ancestry in the glint of their scales and in their roars. Similar to smaller dragonborn, with a slimmer build.
+
+_Legends tell of the first kobolds emerging from the Underdark near the lairs of the earliest dragons. In some lands, kobolds serve chromatic or metallic dragons — even worshiping them as divine beings. In other places, kobolds know too well how dangerous those dragons can be and help others defend against draconic destruction._
+
 **Racial Ability Scores** Dexerity, intelligence
 **Darkvision** 60ft
 **Grovel, Cower, and Beg** As an action on your turn, you can cower pathetically to distract nearby foes. Until the end of your next turn, your allies gain advantage on attack rolls against enemies within 10 feet of you that can see you. Once you use this trait, you can't use it again until you finish a short or long rest.
@@ -245,6 +273,10 @@ Your race affects many things about your character, such as ability scores, raci
 **Sunlight Sensitivity** You have disadvantage on attack rolls and on Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
 
 # Orcs
+Similar to goblins, orcs from different regions have different skin tones to blend in to the environment more, with greenish tones in forests and plains, grey in mountains, etc. They stand about six feet tall on average, and have upward tusks and strong builds.
+
+_Orcs trace their creation to the one-eyed god Gruumsh, an unstoppable warrior and powerful leader. The divine qualities of Gruumsh resonate within orcs, granting them a reflection of his toughness and tenacity that can’t be matched, and the god equipped his children to be able to live above or below ground._
+
 **Racial Ability Scores** Constitution and Strength
 
 **Darkvision** 60ft
@@ -258,6 +290,10 @@ Your race affects many things about your character, such as ability scores, raci
 **Bonus Languages** Orc
 
 # Satyrs
+They resemble elves but have goatlike legs, cloven hooves, and ram or goat horns. They are slightly above average height.
+
+_Originating in the Feywild — a realm of pure emotion-satyrs thrive on the energy of merriment. The magic of the fey realm has given them an innate ability to perform, to delight, and to resist magical intrusion. While they’re usually found in the Feywild, satyrs do wander to other planes of existence, most often to the Material Plane. There they seek to bring a bit of their home plane’s splendor to other worlds._
+
 **Racial Ability Scores** Charisma, Dexterity
 
 **Ram** You can use your head and horns to make unarmed strikes. When you hit with them, the strike deals 1d6 + Str bludgeoning damage.
@@ -269,6 +305,10 @@ Your race affects many things about your character, such as ability scores, raci
 **Reveler** As an embodiment of revelry, you have profiiency in Performance and Persuasion, and proficiency with one musical instrument of your choice.
 
 # Tabaxi
+Tabaxi are humanoid felines, visually ranging from housecat breeds to wild cats like panthers and cheetahs. Height ranges wildly among them, generally correlated with the breed they resemble. 
+
+_Created by the Cat Lord—a divine being of the Upper Planes—to blend the qualities of humanoids and cats, tabaxi are a varied people in both attitude and appearance. In some lands, tabaxi live like the cats they resemble, naturally curious and at home in playful environments. In other places, tabaxi live as other folk do, not exhibiting the feline behavior the Cat Lord intended._
+
 **Racial Ability Scores** Dexterity, Charisma
 
 **Speed** You have a climbing speed equal to your walking speed.
@@ -282,6 +322,10 @@ Your race affects many things about your character, such as ability scores, raci
 **Curiosity...** You can have proficiency in perception OR investigation.
 
 # Tieflings
+Tieflings are humanoids infused with devil-like qualities, as the result of an ancient sin changed their appearance to have horns and tails. Their skin color also varies based on the layer of hell their ancestry is associated with: Phelegthos (fire layer, orange to purple skin), Stygia (cold layer, purple to blue), and Minauros (acid/poison layer, green to orange skin) 
+
+_To be greeted with stares and whispers, to suffer violence and insult on the street, to see mistrust and fear in every eye: this is the lot of the tiefling. And to twist the knife, tieflings know that this is because a pact struck generations ago infused the essence of Asmodeus, overlord of the Nine Hells (and many of the other powerful devils serving under him) into their bloodline. Their appearance and their nature are not their fault but the result of an ancient sin, for which they and their children and their children's children will always be held accountable._
+
 **Racial Ability Scores** Intelligence, Charisma
 
 **Darkvision** 60ft
@@ -292,10 +336,19 @@ Your race affects many things about your character, such as ability scores, raci
 
 **Bonus Languages** Infernal
 
-# Tortle 
+# Tortle
+Humanoids with turtle-like features: a shell on their back, and stumpy legs and fat fingers with leathery skin. Tortles come as varied as real-world turtles do, and their heights range from five to six feet. 
+
+_Tortles have a saying: “We wear our homes on our backs.” These turtle folk live on many worlds, most often journeying up and down coasts, along waterways, and across the sea. Tortles don’t have a unified story of how they were created, but they all have a sense of being mystically connected to the natural world. Carrying their shelter on their backs gives tortles a special feeling of security wherever they go, for even if they visit a far, unknown country, they have a place to lay their heads._
+
 **Racial Ability Scores** Strength, Wisdom
+
 **Claws.** Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+
 **Hold Breath** You can hold your breath for up to 1 hour at a time. Tortles aren't natural swimmers, but they can remain underwater for some time before needing to come up for air.
+
 **Natural Armor** Your shell provides you with a base AC of 17 (your Dexterity modifier doesn't affect this number). You gain no benefit from wearing armor, but if you are using a shield, you can apply the shield's bonus as normal.
+
 **Shell Defense.** You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are prone, your speed is 0 and can't increase, you have disadvantage on Dexterity saving throws, you can't take reactions, and the only action you can take is a bonus action to emerge from your shell.
+
 **Survival Instinct.** You gain proficiency in the Survival skill.
