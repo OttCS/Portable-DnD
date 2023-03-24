@@ -1,14 +1,14 @@
 Your race, while most for aesthetic, has some affects on your character including; racial traits, damage resistances Your race affects aspects about your character such as ability scores, racial abilities, damage resistance, and other abilities.
 
-**Size** Unless otherwise noted, your size is medium
-
-**Speed** Unless otherwise noted, your base walking speed is 30ft
-
-**Darkvision** You can see in dim light (up to a radius) as if it were bright light, and in darkness as if it were dim light.
-
-**Bonus Languages** All playable races can speak, read, and write Common, as well as other noted languages
+* ***Size** Unless otherwise noted, your size is medium
+* **Speed** Unless otherwise noted, your base walking speed is 30ft
+* **Darkvision** You can see in dim light (up to a radius) as if it were bright light, and in darkness as if it were dim light.
+* **Bonus Languages** All playable races can speak, read, and write Common, as well as other noted languages
 
 # Humans
+Humans are the most adaptable and ambitious people among the common races. They have widely varying tastes, morals, and customs in the many different lands where they have settled. When they settle, though, they stay: they build cities to last for the ages, and great kingdoms that can persist for long centuries. An individual human might have a relatively short life span, but a human nation or culture preserves traditions with origins far beyond the reach of any single human’s memory. 
+
+*In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that's why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.
 
 **Racial Ability Scores** Three of your choice
 
