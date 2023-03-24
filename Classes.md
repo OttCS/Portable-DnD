@@ -6,11 +6,11 @@ Your character can utilize their skills in any number of unique ways. The hit di
 ## Artificer
 An intelligent inventor who imbues magic into everything they create. Makers of magic-infused objects, artificers are defined by their inventive nature. They see magic as a complex system waiting to be decoded and controlled. Instead of ephemeral spells, they seek to craft durable, useful, marvelous magical items.
 
-_**Hit Die**_. d8
-_**Primary Stat**_. Intelligence 
-_**Save Buffs**_. Constitution, Intelligence 
-_**Proficiencies**_. Light and Medium Armor, Sheild, Simple weapons
-_**Skills**_. Choose two from Arcana, History, Investigation, Medicine, Nature, Perception, Sleight of Hand
+* _**Hit Die**_. d8
+* _**Primary Stat**_. Intelligence 
+* _**Save Buffs**_. Constitution, Intelligence 
+* _**Proficiencies**_. Light and Medium Armor, Sheild, Simple weapons
+* _**Skills**_. Choose two from Arcana, History, Investigation, Medicine, Nature, Perception, Sleight of Hand
 
 _**Equipment**_. Choose: 
 * any two simple weapons of your choice 
