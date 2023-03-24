@@ -1,0 +1,1 @@
+Hit dice (use to heal after short rest, regain half of total hit die after long rest)
