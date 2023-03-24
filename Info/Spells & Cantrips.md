@@ -1,0 +1,5 @@
+## Spells
+Spells allow you to use magic to give you an advantage in battle however you are limited on how many spells you know and how many times you can use those pure day. Spells are limited by your class and subclasses so checking your spell list will show you what spells your character is able to use. When casting a spell make sure you know what level it is cause you can only cast spells from a slot that is atleast the level a spell (no casting 2nd level spells from a 1st level spell slot). certain spells can be cast as rituals which adds 10 minutes to how long it would normally take to cast; however when casting through a ritual the spell slot is not used which also means it can't be cast at higher levels.
+
+## Cantrips
+Cantrips, like spells, can help you have an advantage in battle, Cantrips are also limited by how many you can know at a time, but unlike spells you can cast cantrips as many times as you would like a day.
