@@ -1,5 +1,7 @@
 # Portable DnD: Barbarian
-**Grug would like to rage**
+**Grug would like to rage** 
+
+http://dnd5e.wikidot.com/barbarian
 
 ## Rage
 In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.

@@ -1,5 +1,6 @@
 # Portable DnD: Bard
 **BARDIC INSPIRATION**
+http://dnd5e.wikidot.com/bard
 
 ## Spellcasting
 You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations. See Spells Rules for the general rules of spellcasting and the Spells Listing for the bard spell list.

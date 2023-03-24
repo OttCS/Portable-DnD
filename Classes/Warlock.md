@@ -1,6 +1,6 @@
-# Warlock
 **Cthulu gave me lazer hands**
 
+http://dnd5e.wikidot.com/warlock
 | The Warlock |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Level | Proficiency Bonus | Features | Cantrips Known | Spells Known | Spell Slots | Slot Level | Invocations Known |
