@@ -63,7 +63,7 @@ _**Equipment**_. Choose:
 -   (a) a lute or (b) any other musical instrument
 -   Leather armor and a dagger
 
-## [Cleric]((http://dnd5e.wikidot.com/cleric)
+## [Cleric](http://dnd5e.wikidot.com/cleric)
 A priestly champion who wields divine magic in service of a higher power. Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.
 
 ##### Hit Points
@@ -103,7 +103,7 @@ _**Equipment**_. Choose:
 -   (a) a scimitar or (b) any simple melee weapon
 -   Leather armor, an explorer’s pack, and a druidic focus
 
-## [Fighter]((http://dnd5e.wikidot.com/fighter)
+## [Fighter](http://dnd5e.wikidot.com/fighter)
 A master of martial combat, skilled with a variety of weapons and armor. Fighters share an unparalleled mastery with weapons and armor, and a thorough knowledge of the skills of combat. They are well acquainted with death, both meting it out and staring it defiantly in the face.
 
 ##### Hit Points
@@ -123,7 +123,7 @@ _**Equipment**_. Choose:
 -   (a) a light crossbow and 20 bolts or (b) two handaxes
 -   (a) a dungeoneer’s pack or (b) an explorer’s pack
 
-## [Monk]((http://dnd5e.wikidot.com/monk)
+## [Monk](http://dnd5e.wikidot.com/monk)
 A master of the martial arts, harnessing bodily power in pursuit of physical and spiritual perfection. Monks are united in their ability to magically harness the energy that flows in their bodies. Whether channeled as a striking display of combat prowess or a subtler focus of defensive ability and speed, this energy infuses all that a monk does.
 
 ##### Hit Points
@@ -142,7 +142,7 @@ _**Equipment**_. Choose:
 -   (a) a dungeoneer’s pack or (b) an explorer’s pack
 -   10 darts
 
-## [Paladin]((http://dnd5e.wikidot.com/paladin)
+## [Paladin](http://dnd5e.wikidot.com/paladin)
 A holy warrior bound to a sacred oath. Whether sworn before a god's altar and the witness of a priest, in a sacred glade before nature spirits and fey beings, or in a moment of desperation and grief with the dead as the only witness, a paladin's oath is a powerful bond.
 
 ##### Hit Points
@@ -162,7 +162,7 @@ _**Equipment**_. Choose:
 -   (a) a priest’s pack or (b) an explorer’s pack
 -   Chain mail and a holy symbol
 
-## [Ranger]((http://dnd5e.wikidot.com/ranger)
+## [Ranger](http://dnd5e.wikidot.com/ranger)
 A warrior who uses martial prowess and nature magic to combat threats outside civilization. Far from the bustle of cities and towns, past the hedges that shelter the most distant farms from the terrors of the wild, amid the dense-packed trees of trackless forests and across wide and empty plains, rangers keep their unending watch.
 
 ##### Hit Points
@@ -182,7 +182,7 @@ _**Equipment**_. Choose:
 -   (a) a dungeoneer’s pack or (b) an explorer’s pack
 -   A longbow and a quiver of 20 arrows
 
-## [Rogue]((http://dnd5e.wikidot.com/rogue)
+## [Rogue](http://dnd5e.wikidot.com/rogue)
 A scoundrel who uses stealth and trickery to overcome obstacles and enemies. Rogues rely on skill, stealth, and their foes' vulnerabilities to get the upper hand in any situation. They have a knack for finding the solution to just about any problem, demonstrating a resourcefulness and versatility that is the cornerstone of any successful adventuring party.
 
 ##### Hit Points
@@ -203,7 +203,7 @@ _**Equipment**_. Choose:
 -   (a) a burglar’s pack, (b) a dungeoneer’s pack, or (c) an explorer’s pack
 -   Leather armor, two daggers, and thieves’ tools
 
-## [Sorcerer]((http://dnd5e.wikidot.com/sorcerer)
+## [Sorcerer](http://dnd5e.wikidot.com/sorcerer)
 A spellcaster who draws on inherent magic from a gift or bloodline. Sorcerers carry a magical birthright conferred upon them by an exotic bloodline, some otherworldly influence, or exposure to unknown cosmic forces. No one chooses sorcery; the power chooses the sorcerer.
 
 ##### Hit Points
@@ -223,7 +223,7 @@ _**Equipment**_. Choose:
 -   (a) a dungeoneer’s pack or (b) an explorer’s pack
 -   Two daggers
 
-## [Warlock]((http://dnd5e.wikidot.com/warlock)
+## [Warlock](http://dnd5e.wikidot.com/warlock)
 A wielder of magic that is derived from a bargain with a powerful entity. Warlocks are seekers of the knowledge that lies hidden in the fabric of the multiverse. Through pacts made with mysterious beings of supernatural power, warlocks unlock magical effects both subtle and spectacular.
 
 ##### Hit Points
@@ -243,7 +243,7 @@ _**Equipment**_. Choose:
 -   (a) a scholar’s pack or (b) a dungeoneer’s pack
 -   Leather armor, any simple weapon, and two daggers
 
-## [Wizard]((http://dnd5e.wikidot.com/wizard))
+## [Wizard](http://dnd5e.wikidot.com/wizard)
 A scholarly magic-user capable of manipulating the structures of reality. Wizards are supreme magic-users, defined and united as a class by the spells they cast. Drawing on the subtle weave of magic that permeates the cosmos, wizards cast spells of explosive fire, arcing lightning, subtle deception, brute-force mind control, and much more.
 
 ##### Hit Points
