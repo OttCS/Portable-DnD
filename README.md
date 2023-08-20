@@ -29,39 +29,38 @@ In combat, you have 3 options, and you can take or skip each one on your turn.
 - *Quick Cast*. You can cast a spell that requires a bonus action
 - *Use a Potion*. You or a willing creature within 5 feet consumes a potion
 
-# Step-by-Step Characters
-Your character sheet is a full list of the different ways you have of interacting with the world around you!
+# Character Creation
+Your character has many different ways of interacting with the world around them, and your sheet contains a lot of the options!
 
-## Character Creation
-Character creation process is listed as straightforward as possible below, but feel free to check [D&D Beyond's approach for step-by-step characters](https://www.dndbeyond.com/sources/basic-rules/step-by-step-characters)!
+The character creation process is listed as straightforward as possible below, but feel free to check [D&D Beyond's approach for step-by-step characters](https://www.dndbeyond.com/sources/basic-rules/step-by-step-characters)!
 
-#### Character Races
-Please reference the [Character Races](Races.md) document.
+## Character Races
+Please referenct the [Character Races](Races.md) document.
 
-#### Classes
+## Classes
 Please reference the [Character Classes](Classes.md) document.
 
-#### Abilities
-The most streamlined system for determining ability scores is one I came up with! It is a point-buy system that focuses only on the modifiers, and keeps all level 1 players between -2 and +3. Please reference the [Modifier Buy](ModifierBuy.md) document.
+## Abilities and Scores
+All of your modifiers start at -2. You then may add a total of 17 to these, with a limit of +3 for each.
 
-#### Character Backgrounds
+## Character Backgrounds
 Please reference the [Character Backgrounds](Backgrounds.md) document.
 
-_**Proficiency**_. Proficiency is a measure of how adept you are at what you do, and can be considered “your experience with what you do regularly). This score increases at certain levels, but starts at +2.
-_**Saving Throws**_. These are equal to your modifiers, plus your proficiency based on your class.
-_**Skills**_. These are equal to your modifiers, plus your proficiency based on your class and background
-_**Passive Perception**_. Add 10 and your wisdom modifier, and if you are proficient in perception add your proficiency bonus as well.
-_**Proficiencies and Languages**_. Your non-stat proficiencies and languages should go here.
+**Proficiency**. Proficiency is a measure of how adept you are at what you do, and can be considered “your experience with what you do regularly). This score increases at certain levels, but starts at +2.
+**Saving Throws**. These are equal to your modifiers, plus your proficiency based on your class.
+**Skills**. These are equal to your modifiers, plus your proficiency based on your class and background
+**Passive Perception**. Add 10 and your wisdom modifier, and if you are proficient in perception add your proficiency bonus as well.
+**Proficiencies and Languages**. Your non-stat proficiencies and languages should go here.
 
-_**Armor Class**_. How hard you are to hit. This is based on what armor you are wearing + your dexterity modifier, unless your class specifies otherwise.
-_**Initiative**_. How quickly you react in battle. Typically this is your dexterity modifier, unless your class specifies otherwise.
-_**Speed**_. Unless otherwise specified by your chosen race, your base walking speed is 30ft.
-_**Hit Points**_. Take the highest number possible on your hit die and add your constitution modifier: level 1.
+**Armor Class**. How hard you are to hit. This is based on what armor you are wearing + your dexterity modifier, unless your class specifies otherwise.
+**Initiative**. How quickly you react in battle. Typically this is your dexterity modifier, unless your class specifies otherwise.
+**Speed**. Unless otherwise specified by your chosen race, your base walking speed is 30ft.
+**Hit Points**. Take the highest number possible on your hit die and add your constitution modifier: level 1.
 
-## Leveling Up
-_**Increase HP**_. Roll your class’ hit die (reroll 1s), and add it and your constitution modifier to your HP.
-_**Stat Bump**_. Increase a core stat modifier of your choice by one, up to +5 OR choose a feat.
-_**Proficiency**_. Increase your proficiency score by one.
+# Leveling Up
+**Increase HP**. Roll your class’ hit die (reroll 1s), and add it and your constitution modifier to your HP.
+**Stat Bump**. Increase a core stat modifier of your choice by one, up to +5 OR choose a feat.
+**Proficiency**. Increase your proficiency score by one.
 
 Level:
 1.  Character creation
