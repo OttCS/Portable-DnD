@@ -181,3 +181,18 @@ Ask you DM for descriptions for each race, or reference [Wikidot's 5e Page](http
 - **Natural Armor.** Your shell provides you with a base AC of 16 (your Dexterity modifier doesn't affect this number). You gain no benefit from wearing armor, but if you are using a shield, you can apply the shield's bonus as normal.
 - **Shell Defense.** You can fully withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are prone, your speed is 0 and can't increase, you have disadvantage on Dexterity saving throws, you can't take reactions, and the only action you can take is a bonus action to emerge from your shell.
 - **Survival Instinct.** You gain proficiency in the Survival skill.
+
+# Warforged
+*Language of your choice*
+
+- **Constructed Resilience.** You were created to have remarkable fortitude, represented by the following benefits:
+	- You have advantage on saving throws against being poisoned, and you have resistance to poison damage.
+	- You don’t need to eat, drink, or breathe.
+	- You are immune to disease.
+	- You don't need to sleep, and magic can't put you to sleep.
+- **Sentry's Rest.** When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn’t render you unconscious, and you can see and hear as normal.
+- **Integrated Protection.** Your body has built-in defensive layers, which can be enhanced with armor.
+	- You gain a +1 bonus to Armor Class.
+	- You can don only armor with which you have proficiency. To don armor, you must incorporate it into your body over the course of 1 hour, during which you must remain in contact with the armor. To doff armor, you must spend 1 hour removing it. You can rest while donning or doffing armor in this way.
+	- While you live, your armor can't be removed from your body against your will.
+- **Specialized Design.** You gain one skill proficiency and one tool proficiency of your choice.
