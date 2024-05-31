@@ -1,7 +1,7 @@
 ### ***Determine Ability Scores***. 
 The ability score of your character determines their strengths and weaknesses. Think carefully about how you want to play your character and follow these steps:
 
-1.  Start with a -1 base modifier where ever your **Racial Ability Scores** applies, and -2 for the rest
+1.  Start with a -1 base modifier wherever your **Racial Ability Scores** applies, and -2 for the rest
 2.  Add a total of 15 among the different modifiers, none can be over +3 (at level 1)
 
 ### **Optional 1st-Level Feat**
