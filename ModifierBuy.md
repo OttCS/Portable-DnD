@@ -1,3 +1,5 @@
+Fairer than rolling, easier than point buy.
+
 ### ***Determine Ability Scores***. 
 The ability score of your character determines their strengths and weaknesses. Think carefully about how you want to play your character and follow these steps:
 
@@ -5,7 +7,7 @@ The ability score of your character determines their strengths and weaknesses. T
 2.  Add a total of 15 among the different modifiers, none can be over +3 (at level 1)
 
 ### **Optional 1st-Level Feat**
-If you're looking to have a feat at first level, only add a total of 14 in step two, and select a feat to begin with.  Find a list of useable here: [[Feats]]
+If you're looking to have a feat at first level, only add a total of 14 in step two, and select a feat to begin with.  Find a list of usable here: [[Feats]]
 
 (Note: Actual score doesn't matter for gameplay, but to fill it in it's 2 times modifier + 10)
 

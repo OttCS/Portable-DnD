@@ -13,20 +13,15 @@ Skilled at mimicry and dramatics, you gain the following benefits:
 Always on the lookout for danger, you gain the following benefits:
 
 -   You can't be surprised while you are conscious.
-
 -   You gain a +5 bonus to initiative.
-
 -   Other creatures don't gain advantage on attack rolls against you as a result of being unseen by you.
 
 ## Athlete
 You have undergone extensive physical training to gain the following benefits:
 
 -   Increase your Strength or Dexterity score by 1, to a maximum of 20.
-
 -   When you are prone, standing up uses only 5 feet of your movement.
-
 -   Climbing doesn’t cost you extra movement.
-
 -   You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
 
 ## Charger

@@ -41,7 +41,7 @@ Please referenct the [Character Races](Races.md) document.
 Please reference the [Character Classes](Classes.md) document.
 
 ## Abilities and Scores
-All of your modifiers start at -2. You then may add a total of 17 to these, with a limit of +3 for each.
+All of your modifiers start at -2. You then may add a total of 17 to these, with a limit of +3 for each. Optionally, you can take a feat and only add 16 to your modifiers.
 
 ## Character Backgrounds
 Please reference the [Character Backgrounds](Backgrounds.md) document.
