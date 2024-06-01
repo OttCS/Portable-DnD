@@ -1,7 +1,7 @@
 # Portable DnD: Basic Guide
 **A simplified version of a wonderful game**
 
-DnD is far too complicated, and until rule patches coming in 2024, it will continue to be so. The goal of the Portable system is focused on providing a simplified game, so that new players will understand the different areas of their character sheet and have a better understanding of what they are able to do.
+DnD is far too complicated, and upcoming rule patches will keep it so. The goal of the Portable system is focused on providing a simplified game, so that new players will understand the different areas of their character sheet and have a better understanding of what they are able to do.
 
 ## Abilities and Skills
 Your abilities affect what your character is capable of doing, as well as different aspects of your character’s areas of expertise.
