@@ -8,6 +8,8 @@ The ability score of your character determines their strengths and weaknesses, a
 2.  Add a total of 16 points among the different modifiers, none over +3
 3. For scores, add 2 x the modifier and add 10.
 
+***Optional Level One Feat.*** You may choose to only add 15 points to your modifiers, and select a feat at level one to start with.
+
 ## Justification (For DMs)
 With the new low end of stats being -2, players have the freedom to dump stats, and aren't encouraged to min-max race/class combos to achieve a +3 at level one. Creativity is good in this game, after all.
 
