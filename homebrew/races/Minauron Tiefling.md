@@ -1,6 +1,6 @@
 Traditional tieflings are descendants of Asmodeus. Despite his appearance being flesh-toned or purple, his descendant tieflings are shades of red and resistant to fire, able to blend into their ancestral environment.
 
-Tieflings descendant of Mammon/Minauros also reflect similarly, being shades of green and resistant to poison. These tieflings typically have golden eyes, harking back to Mammon's insatiable lust for coin.
+Tieflings descendant of [Mammon](https://forgottenrealms.fandom.com/wiki/Mammon)/[Minauros](https://forgottenrealms.fandom.com/wiki/Minauros) also reflect similarly, being shades of green and resistant to poison. These tieflings typically have copper, silver, gold, or platinum eyes, harking back to Mammon's insatiable lust for coin.
 
 While tieflings always get a bonus to charisma, Minauron Tieflings receive a bonus to constitution, needing resilience in unforgiving environments.
 
