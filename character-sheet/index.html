@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Character Stats Form</title>
+    <style>
+        :root {
+            --unit: .25in;
+            --statBlockHeight: 110px;
+            --lineHeight: calc(var(--statBlockHeight) / 6);
+            --fontSize: calc(var(--statBlockHeight) / 6 - 4px);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            border: none;
+            outline: 1px;
+        }
+
+        body {
+            background: #333;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            width: 100vw;
+            height: 100vh;
+            overflow-x: hidden;
+            line-height: var(--lineHeight);
+            font-size: var(--fontSize);
+            font-family: monospace;
+        }
+
+        page {
+            margin: var(--unit);
+            padding: calc(var(--unit) * 0.5);
+            height: calc(100vh - 3 * var(--unit));
+            width: calc(100vh / 11 * 8.5 - 3 * var(--unit));
+            max-width: calc(100vw - 3 * var(--unit));
+            max-height: calc(100vw * 11 / 8.5 - 3 * var(--unit));
+            display: flex;
+            background: #fff;
+            justify-content: space-evenly;
+        }
+
+        section {
+            border: 1px solid red;
+            width: 100%;
+            margin: calc(var(--unit) * 0.5);
+            display: flex;
+            flex-direction: column;
+        }
+
+        stats {
+            display: block;
+        }
+
+        stat {
+            display: flex;
+            height: var(--statBlockHeight);
+            width: 100%;
+            border: 1px solid blue;
+        }
+
+        score {
+            display: flex;
+            flex-direction: column;
+            width: var(--statBlockHeight);
+            text-align: center;
+            border: 1px solid;
+            padding: 4px;
+        }
+
+        .modifier {
+            height: 100%;
+            width: 100%;
+            font-size: calc(2 * var(--fontSize));
+        }
+
+        .score {
+            height: var(--lineHeight);
+            width: 60%;
+            margin: 0 auto;
+            border-radius: calc(var(--statBlockHeight));
+            border: 1px solid;
+        }
+
+        input {
+            text-align: center;
+            line-height: 100%;
+        }
+
+        checks {
+            width: 100%;
+        }
+
+        /* Customize the label (the container) */
+        .container {
+            display: flex;
+            position: relative;
+            cursor: pointer;
+            font-size: var(--fontSize);
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            height: var(--lineHeight);
+        }
+
+        /* Hide the browser's default checkbox */
+        .container input {
+            position: absolute;
+            opacity: 0;
+            cursor: pointer;
+            height: 0;
+            width: 0;
+        }
+
+        /* Create a custom checkbox */
+        .savemark {
+            height: calc(var(--fontSize));
+            width: calc(var(--fontSize));
+            /* -webkit-transform: rotate(45deg);
+            -ms-transform: rotate(45deg);
+            transform: rotate(45deg); */
+            background-color: #eee;
+            margin: 2px;
+            margin-right: 6px;
+        }
+
+        .savemark.check {
+            border-radius: 50%;
+        }
+
+        /* On mouse-over, add a grey background color */
+        .container:hover input~.savemark,.savemark {
+            background-color: #ccc;
+        }
+
+        /* When the checkbox is checked, add a blue background */
+        .container input:checked~.savemark {
+            background-color: #2196F3;
+        }
+
+        /* Create the checkmark/indicator (hidden when not checked) */
+        .savemark:after {
+            content: "";
+            position: absolute;
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <page>
+        <section>
+            <stat>
+                <score>
+                    <name>Intelligence</name>
+                    <input class="modifier" value="-2">
+                    <input class="score" value="6">
+                </score>
+                <checks>
+                    <label class="container">
+                        <input type="checkbox" >
+                        <span class="savemark"></span>
+                        Saving Throws
+                    </label>
+                    <label class="container">
+                        <input type="checkbox" >
+                        <span class="savemark check"></span>
+                        Arcana
+                    </label>
+                    <label class="container">
+                        <input type="checkbox" >
+                        <span class="savemark check"></span>
+                        History
+                    </label>
+                    <label class="container">
+                        <input type="checkbox" >
+                        <span class="savemark check"></span>
+                        Investigation
+                    </label>
+                    <label class="container">
+                        <input type="checkbox" >
+                        <span class="savemark check"></span>
+                        Nature
+                    </label>
+                    <label class="container">
+                        <input type="checkbox" >
+                        <span class="savemark check"></span>
+                        Religion
+                    </label>
+                </checks>
+            </stat>
+        </section>
+        <section></section>
+        <section></section>
+    </page>
+
+    <script>
+        const total = {
+            current: -10,
+            max: 6
+        }
+    </script>
+</body>
+
+</html>

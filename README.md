@@ -1,9 +1,12 @@
 # Portable DnD: Basic Guide
-**A simplified version of a wonderful game**
+**An easier start to a wonderful game**
 
+If you're looking for Modifier Buy, [it's here](Modifier%20Buy.md)!
+
+## Introduction
 DnD is far too complicated, and upcoming rule patches will keep it so. The goal of the Portable system is focused on providing a simplified game, so that new players will understand the different areas of their character sheet and have a better understanding of what they are able to do.
 
-## Abilities and Skills
+### Abilities and Skills
 Your abilities affect what your character is capable of doing, as well as different aspects of your character’s areas of expertise.
 
 |Statistic|Description|Skills|
@@ -35,7 +38,7 @@ Your character has many different ways of interacting with the world around them
 The character creation process is listed as straightforward as possible below, but feel free to check [D&D Beyond's approach for step-by-step characters](https://www.dndbeyond.com/sources/basic-rules/step-by-step-characters)!
 
 ## Character Races
-Please referenct the [Character Races](Races.md) document.
+Please reference the [Character Races](Races.md) document.
 
 ## Classes
 Please reference the [Character Classes](Classes.md) document.

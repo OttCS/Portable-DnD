@@ -28,14 +28,3 @@ Armor is helps give your character a higher Armor Class or AC. A characters AC d
 | Name|Armor Class (AC)|Strength|Stealth|Weight|Cost|
 |-|-|-|-|-|-|
 |Shield|+2| - | - |6 lb.| 10 gp|
-### Don/Doff Time
-Don/Doff is the action of equiping and removing armor. The time it takes is how long it takes you take the armor on or off. when putting on armor you do not recieve the AC bonus until the full amount of time has elasped. 1 minute = 10 rounds.
-| Category|Don|Doff|
-|-|-|-|
-|**Light Armor**|1 minute| 1 minute |
-|**Medium Armor**|5 minute| 1 minute |
-|**Heavy Armor**|10 minute| 5 minute |
-|**Shield**|1 action| 1 action |
-
-### Weapons 
-http://dnd5e.wikidot.com/weapons

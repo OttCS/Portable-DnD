@@ -6,7 +6,7 @@ Your race, while most for aesthetic, has some affects on your character includin
 * **Speed** Unless otherwise noted, your base walking speed is 30ft
 * **Darkvision** You can see in dim light (up to a radius) as if it were bright light, and in darkness as if it were dim light.
 
-Ask you DM for descriptions for each race, or reference [Wikidot's 5e Page](http://dnd5e.wikidot.com/#toc2)
+Ask your DM for descriptions for each race, or reference [Wikidot's 5e Page](http://dnd5e.wikidot.com/#toc2)
 
 # Humans
 *Language of your choice*
@@ -18,6 +18,7 @@ Ask you DM for descriptions for each race, or reference [Wikidot's 5e Page](http
 
 - **Draconic Ancestry.** You have **damage resistance** associated with what type of dragon you are descended from.
 - **Breath Weapon.** Your breath weapon’s save is 8 + Constitution modifier + proficiency, doing half damage on a success. You can only use this once per short/long rest. The amount of damage is (a number of d6 equal to your proficiency bonus, and it hits all targets in a 30ft line, 5ft wide, in the type associated with your ancestry.
+- 
 ## Chromatic Ancestry
 - **Draconic Presence.** You gain access to the thaumaturgy cantrip.
 
@@ -25,6 +26,7 @@ Ask you DM for descriptions for each race, or reference [Wikidot's 5e Page](http
 |-|-|-|-|-|
 |Acid|Lightning|Poison|Fire|Cold|
 *Chromatic Resistance Table*
+
 ## Gem Ancestry
 - **Draconic Mind.** You gain access to the message cantrip, but it only works on targets you can see within 30ft.
 
@@ -32,6 +34,7 @@ Ask you DM for descriptions for each race, or reference [Wikidot's 5e Page](http
 |-|-|-|-|-|
 |Force|Psychic|Radiant|Thunder|Necrotic|
 *Gem Resistance Table*
+
 ## Metallic Ancestry
 - **Draconic Craftiness.** You gain access to the prestidigitation cantrip.
 
