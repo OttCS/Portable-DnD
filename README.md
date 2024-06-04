@@ -32,37 +32,45 @@ In combat, you have 3 options, and you can take or skip each one on your turn.
 - *Quick Cast*. You can cast a spell that requires a bonus action
 - *Use a Potion*. You or a willing creature within 5 feet consumes a potion
 
-# Character Creation
-Your character has many different ways of interacting with the world around them, and your sheet contains a lot of the options!
+## Character Creation
+Your character has many different ways of interacting with the world around them, and your sheet contains a lot of those options! The character creation process is listed as straightforward as possible below. It is easier to read all of the steps first and *then* actually go through and create your character, even for experienced players.
 
-The character creation process is listed as straightforward as possible below, but feel free to check [D&D Beyond's approach for step-by-step characters](https://www.dndbeyond.com/sources/basic-rules/step-by-step-characters)!
+### 1. Choose a Race
+In a fantasy world, there is a much greater variety to the kinds of people you can come across, each with unique abilities. Your character's race, while aesthetic, does affect the options you have at your disposal: racial traits and abilities, damage resistances, etc. Your race also minimally affects your ability scores. Some important terminology is below:
 
-## Character Races
-Please reference the [Character Races](Races.md) document.
+* **Size.** Unless otherwise noted, your character's size is medium.
+* **Speed.** Unless otherwise noted, your base walking speed is 30ft.
+* **Darkvision.** Your character can see in dim light (up to a radius) as if it were bright light, and in darkness as if it were dim light.
 
-## Classes
+Please reference the [Character Races](Races.md) document when choosing.
+
+## 2. Classes
+Your character fits into a broad category of the special talents and tactics at their disposal, called a class. Each class is a category of play that comes with its own pros and cons. Some have access to spellcasting, better physical abilities, or even the ability to turn into animals. Some important terminology is below:
+
+- **Hit Points.** A number indicating the amount of harm you can sustain before dying.
+- **Hit Dice.** A number which determines
+
 Please reference the [Character Classes](Classes.md) document.
 
-## Abilities and Scores
-All of your modifiers start at -2. You then may add a total of 17 to these, with a limit of +3 for each. Optionally, you can take a feat and only add 16 to your modifiers.
+## 3. Ability Scores
+Please reference the [Modifier Buy](Modifier%20Buy.md) document.
 
-## Character Backgrounds
+- **Proficiency.** Proficiency is a measure of how adept you are at what you do, and can be considered “your experience with what you do regularly). This score increases at certain levels, but starts at +2.
+- **Saving Throws.** These are equal to your modifiers, but with your proficiency bonus added to your class' saving throws.
+- **Armor Class.** How hard you are to hit. This is based on what armor you are wearing + your dexterity modifier, unless your class specifies otherwise.
+- **Initiative.** How quickly you react in battle. Typically this is your dexterity modifier, unless your class specifies otherwise.
+- **Speed.** Unless otherwise specified by your chosen race, your base walking speed is 30ft.
+- **Hit Points.** Take the highest number possible on your hit die and add your constitution modifier at level 1.
+## 4. Background
 Please reference the [Character Backgrounds](Backgrounds.md) document.
 
-**Proficiency**. Proficiency is a measure of how adept you are at what you do, and can be considered “your experience with what you do regularly). This score increases at certain levels, but starts at +2.
-**Saving Throws**. These are equal to your modifiers, plus your proficiency based on your class.
-**Skills**. These are equal to your modifiers, plus your proficiency based on your class and background
-**Passive Perception**. Add 10 and your wisdom modifier, and if you are proficient in perception add your proficiency bonus as well.
-**Proficiencies and Languages**. Your non-stat proficiencies and languages should go here.
-
-**Armor Class**. How hard you are to hit. This is based on what armor you are wearing + your dexterity modifier, unless your class specifies otherwise.
-**Initiative**. How quickly you react in battle. Typically this is your dexterity modifier, unless your class specifies otherwise.
-**Speed**. Unless otherwise specified by your chosen race, your base walking speed is 30ft.
-**Hit Points**. Take the highest number possible on your hit die and add your constitution modifier: level 1.
+- **Skills.** These are equal to your modifiers, plus your proficiency based on your class and background
+- **Passive Perception.** Add 10 and your wisdom modifier, and if you are proficient in perception add your proficiency bonus as well.
+- **Proficiencies and Languages.** Your non-stat proficiencies and languages should go here.
 
 # Leveling Up
 **Increase HP**. Roll your class’ hit die (reroll 1s), and add it and your constitution modifier to your HP.
-**Stat Bump**. Increase a core stat modifier of your choice by one, up to +5 OR choose a feat.
+**Stat Bump**. Increase a core stat modifier of your choice by one, up to +5 OR you can choose a feat.
 **Proficiency**. Increase your proficiency score by one.
 
 Level:
