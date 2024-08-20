@@ -44,7 +44,7 @@ In a fantasy world, there is a much greater variety to the kinds of people you c
 
 Please reference the [Character Races](Races.md) document when choosing.
 
-## 2. Classes
+### 2. Classes
 Your character fits into a broad category of the special talents and tactics at their disposal, called a class. Each class is a category of play that comes with its own pros and cons. Some have access to spellcasting, better physical abilities, or even the ability to turn into animals. Some important terminology is below:
 
 - **Hit Points.** A number indicating the amount of harm you can sustain before dying.
@@ -52,7 +52,7 @@ Your character fits into a broad category of the special talents and tactics at 
 
 Please reference the [Character Classes](Classes.md) document.
 
-## 3. Ability Scores
+### 3. Ability Scores
 Please reference the [Modifier Buy](Modifier%20Buy.md) document.
 
 - **Proficiency.** Proficiency is a measure of how adept you are at what you do, and can be considered “your experience with what you do regularly). This score increases at certain levels, but starts at +2.
@@ -61,7 +61,8 @@ Please reference the [Modifier Buy](Modifier%20Buy.md) document.
 - **Initiative.** How quickly you react in battle. Typically this is your dexterity modifier, unless your class specifies otherwise.
 - **Speed.** Unless otherwise specified by your chosen race, your base walking speed is 30ft.
 - **Hit Points.** Take the highest number possible on your hit die and add your constitution modifier at level 1.
-## 4. Background
+
+### 4. Background
 Please reference the [Character Backgrounds](Backgrounds.md) document.
 
 - **Skills.** These are equal to your modifiers, plus your proficiency based on your class and background
